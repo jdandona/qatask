@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AutomationTask" preserve-order="true">
+	<listeners>
+	
+        <listener class-name="com.friday.qatask.utilities.TakeScreenShot" />
+        
+   </listeners>
+
+	<test name="QuoteTest" preserve-order="true">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<!-- <class name="com.friday.qatask.tests.ThreeCarBrands_EachBrandThreeDifferentCar_Test" /> -->
+			<class name="com.friday.qatask.tests.FailureTestToCheckScreenShotOnFailure" />
+		</classes>
+	</test>
+
+
+
+
+
+</suite>

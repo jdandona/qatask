@@ -1,0 +1,64 @@
+Url: https://hello.friday.de/quote/selectPrecondition
+
+QuoteSelection:
+       inceptionDate: '04042022'
+       registrationDate: '052010'
+       CarBrand1:
+             Model1:
+                  selectVehicle: BMW
+                  selectModel: X1
+                  selectFuelType: Benzin
+                  selectEnginePower: 100 kW / 136 PS
+                  selectEngine: 'HSN: 0005, TSN: CBZ'
+             Model2:
+                  selectVehicle: BMW
+                  selectModel: X3
+                  selectFuelType: Benzin
+                  selectEnginePower: 110 kW / 150 PS
+                  selectEngine: 'HSN: 0005, TSN: 851'
+             Model3:
+                  selectVehicle: BMW
+                  selectModel: X4
+                  selectFuelType: Benzin
+                  selectEnginePower: 135 kW / 184 PS
+                  selectEngine: 'HSN: 0005, TSN: BVI'
+       CarBrand2:
+               Model1:
+                    selectVehicle: MERCEDES-BENZ
+                    selectModel: A-Klasse
+                    selectFuelType: Benzin
+                    selectEnginePower: 60 kW / 82 PS
+                    selectEngine: 'HSN: 0710, TSN: 362'
+               Model2:
+                    selectVehicle: MERCEDES-BENZ
+                    selectModel: B-Klasse
+                    selectFuelType: Hybrid
+                    selectEngine: 'HSN: 2222, TSN: ASD'
+               Model3:
+                    selectVehicle: MERCEDES-BENZ
+                    selectModel: SLC
+                    selectFuelType: Diesel
+                    selectEngine: 'HSN: 1313, TSN: CDA'
+       CarBrand3:
+               Model1:
+                    selectVehicle: FORD
+                    selectModel: C-Max
+                    selectFuelType: Gas
+                    selectEnginePower: 77 kW / 105 PS
+                    selectEngine: 'HSN: 8566, TSN: AUF'
+               Model2:
+                    selectVehicle: FORD
+                    selectModel: Fiesta
+                    selectFuelType: Benzin
+                    selectEnginePower: 33 kW / 45 PS
+                    selectEngine: 'HSN: 0928, TSN: 581'
+               Model3:
+                    selectVehicle: FORD
+                    selectModel: Focus
+                    selectBodyType: Cabrio
+                    selectFuelType: Benzin
+                    selectEnginePower: 74 kW / 101 PS
+                    selectEngine: 'HSN: 8566, TSN: AEX'
+                   
+          
+            
